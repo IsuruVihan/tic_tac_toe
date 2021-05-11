@@ -4,7 +4,7 @@ import '../../assets/styles/partials/Turn.scss';
 
 const Turn: FC = () => {
     return(
-        <Container className="main-container">
+        <Container className="Turn">
             <Row>
                 <Col>
                     <h3>Turn</h3>

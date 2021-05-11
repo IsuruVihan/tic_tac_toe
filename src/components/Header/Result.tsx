@@ -4,7 +4,7 @@ import '../../assets/styles/partials/Result.scss';
 
 const Result: FC = () => {
     return(
-        <Container className="main-container">
+        <Container className="Result">
             <Row>
                 <Col>
                     <h3>Result</h3>
