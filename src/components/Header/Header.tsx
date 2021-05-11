@@ -6,7 +6,7 @@ import Result from './Result';
 
 const Header: FC = () => {
     return(
-        <Container className="main-container" fluid={true}>
+        <Container className="Header" fluid={true}>
             <Row className="text-center">
                 <Col xs={12}>
                     <h1>Tic Tac Toe</h1>
